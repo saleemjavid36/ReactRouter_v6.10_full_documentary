@@ -106,10 +106,10 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 
 // JSX routes
 
-import {
-  createRoutesFromElements,
-  createBrowserRouter,
-} from "react-router-dom";
+// import {
+//   createRoutesFromElements,
+//   createBrowserRouter,
+// } from "react-router-dom";
 
 // const router = createBrowserRouter(
 //   createRoutesFromElements(
